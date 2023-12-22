@@ -92,11 +92,7 @@ section {
 #course-content {
     text-align: center;
     height: 340px; 
-}
-
-#course-content p {
     width: 792px;
-    margin-left: 278px;
 }
 
 #course-content .modules-list {
